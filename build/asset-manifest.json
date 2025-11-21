@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09870aba.css",
+    "main.js": "/static/js/main.a1f7fc6b.js",
+    "static/js/835.5e66c3ad.chunk.js": "/static/js/835.5e66c3ad.chunk.js",
+    "static/media/skyhire-bg.png": "/static/media/skyhire-bg.771896ff755748c1e4e0.png",
+    "static/media/skyhire-logo.png": "/static/media/skyhire-logo.067417c4e90d07c2ea48.png",
+    "static/media/tunisia-flag.png": "/static/media/tunisia-flag.82721f7bb31ef42d94c8.png",
+    "static/media/Emirates Medium.ttf": "/static/media/Emirates Medium.be394224cc10c17414ab.ttf",
+    "static/media/sidebar-image.jpg": "/static/media/sidebar-image.13fc0da7f755aa3d2947.jpg",
+    "index.html": "/index.html",
+    "main.09870aba.css.map": "/static/css/main.09870aba.css.map",
+    "main.a1f7fc6b.js.map": "/static/js/main.a1f7fc6b.js.map",
+    "835.5e66c3ad.chunk.js.map": "/static/js/835.5e66c3ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09870aba.css",
+    "static/js/main.a1f7fc6b.js"
+  ]
+}
