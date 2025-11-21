@@ -15,7 +15,7 @@ node_modules/
 *.tsbuildinfo
 
 # Build / Bundles
-build/
+# build/
 dist/
 **/dist/
 /.vite*
